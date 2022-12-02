@@ -5,7 +5,7 @@
     -  Right click 'Sites'
     -  Add Website 
     -  Site name 'cokowiek', Physical path: xxx/poc, Port 768
-    -  http://localhost:768/A/Api.asp shoud return {"test":"cokolwiek"}
+    -  http://localhost:768/A/Api.asp should return {"test":"cokolwiek"}
 5.  setup vite
     - cd C
     - npm install 
