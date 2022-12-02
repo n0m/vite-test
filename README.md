@@ -1,7 +1,7 @@
 1.  mkdir poc
 2.  cd poc
 3.  git clone https://github.com/n0m/vite-test .
-4.  setup Internet Information Services (IIS) App 
+4.  setup Internet Information Services (IIS) App (Start IIS)
     -  Right click 'Sites'
     -  Add Website 
     -  Site name 'cokowiek', Physical path: xxx/poc, Port 768
